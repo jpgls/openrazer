@@ -22,6 +22,7 @@ The devices below are fully feature supported by OpenRazer, which means all avai
 | Razer Anansi                                  |  1532:010F  |
 | Razer BlackWidow Ultimate 2013                |  1532:011A  |
 | Razer BlackWidow Stealth                      |  1532:011B  |
+| Razer BlackWidow Tournament Edition 2014      |  1532:011C  |
 | Razer DeathStalker Expert                     |  1532:0202  |
 | Razer BlackWidow Chroma                       |  1532:0203  |
 | Razer DeathStalker Chroma                     |  1532:0204  |
@@ -69,11 +70,12 @@ The devices below are fully feature supported by OpenRazer, which means all avai
 | Razer Blade 15 (Early 2020) Base              |  1532:0255  |
 | Razer Huntsman Mini                           |  1532:0257  |
 | Razer Blade Stealth (Late 2020)               |  1532:0259  |
-| Razer Ornata Chroma V2                        |  1532:025D  |
+| Razer Ornata V2                               |  1532:025D  |
 | Razer Cynosa V2                               |  1532:025E  |
 | Razer Book 13 (2020)                          |  1532:026A  |
 | Razer Blade 15 Advanced (Early 2021)          |  1532:026D  |
 | Razer Blade 15 Base (Early 2021)              |  1532:026F  |
+| Razer BlackWidow V3 Tenkeyless                |  1532:0A24  |
 
 ### Mice
 | Device                                        | USB VID:PID |
@@ -112,6 +114,7 @@ The devices below are fully feature supported by OpenRazer, which means all avai
 | Razer Lancehead Tournament Edition            |  1532:0060  |
 | Razer Atheris (Receiver)                      |  1532:0062  |
 | Razer Basilisk                                |  1532:0064  |
+| Razer Basilisk Essential                      |  1532:0065  |
 | Razer Naga Trinity                            |  1532:0067  |
 | Razer Abyssus Elite (D.Va Edition)            |  1532:006A  |
 | Razer Abyssus Essential                       |  1532:006B  |
@@ -211,10 +214,6 @@ The following applications complement and interact with this driver:
 * [razerCommander](https://github.com/GabMus/razerCommander) - Simple GUI written in Gtk3
 * [Snake](http://bithatch.co.uk/snake.html) - a stylised tool and tray applet for configuring Razer devices on Linux, written in Java.
 * [Chroma Feedback](https://github.com/redaxmedia/chroma-feedback) - Turn your Razer keyboard, mouse or headphone into a extreme feedback device
-
-## Contributions
-
-You can donate to [@terrycain](https://github.com/terrycain) with PayPal to terry@terrys-home.co.uk .
 
 ---
 
